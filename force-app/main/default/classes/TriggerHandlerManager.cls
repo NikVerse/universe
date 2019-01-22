@@ -35,9 +35,20 @@ public with sharing class TriggerHandlerManager {
 
             for (Trigger_Handler__mdt handler :handlers) {
 
-                Type classType = Type.forName(handler.Class__c);
-                TriggerHandlerInterface handlerInterface = (TriggerHandlerInterface) classType.newInstance();
-                handlerInterface.execute(Trigger.old, Trigger.new);
+                TriggerHandlerInterface handlerInterface = null;
+
+                try {
+
+                    Type classType = Type.forName(handler.Class__c);
+                    handlerInterface = (TriggerHandlerInterface) classType.newInstance();
+                }
+                catch (Exception ex) {
+                    System.debug(LoggingLevel.ERROR, ex.getStackTraceString());
+                }
+                
+                if (handlerInterface != null) {
+                    handlerInterface.execute(Trigger.old, Trigger.new);
+                }
             }
         }
     }
