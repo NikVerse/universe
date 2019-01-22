@@ -1,0 +1,392 @@
+[
+    [
+        "/Volumes/Work/Projects/nimacloud/tdtm-source/force-app",
+        {
+            "state": "u",
+            "sourcePath": "/Volumes/Work/Projects/nimacloud/tdtm-source/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1548142015242,
+            "changeTime": 1548142015242,
+            "contentHash": "51d86f3b64a3d9a0048d192f02147b0e9e9594e4",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Volumes/Work/Projects/nimacloud/tdtm-source/force-app/main",
+        {
+            "state": "u",
+            "sourcePath": "/Volumes/Work/Projects/nimacloud/tdtm-source/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1548142020266,
+            "changeTime": 1548142020266,
+            "contentHash": "ae41ed56706e4439a34cda97ac997d7988935c2f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Volumes/Work/Projects/nimacloud/tdtm-source/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Volumes/Work/Projects/nimacloud/tdtm-source/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1548142026261,
+            "changeTime": 1548142026261,
+            "contentHash": "c6c8b0d65a47618f1f304ab2deb42c13f76b2ee3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Volumes/Work/Projects/nimacloud/tdtm-source/force-app/main/default/aura",
+        {
+            "state": "u",
+            "sourcePath": "/Volumes/Work/Projects/nimacloud/tdtm-source/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1548141646000,
+            "changeTime": 1548141646000,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Volumes/Work/Projects/nimacloud/tdtm-source/force-app/main/default/classes",
+        {
+            "state": "u",
+            "sourcePath": "/Volumes/Work/Projects/nimacloud/tdtm-source/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1548141784371,
+            "changeTime": 1548141784371,
+            "contentHash": "6e21eab58baaeec39459fba3977225b9c26e9edb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Volumes/Work/Projects/nimacloud/tdtm-source/force-app/main/default/classes/TriggerHandlerInterface.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Volumes/Work/Projects/nimacloud/tdtm-source/force-app/main/default/classes/TriggerHandlerInterface.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 107,
+            "modifiedTime": 1548141792545,
+            "changeTime": 1548141792545,
+            "contentHash": "600f956a4d2d82964f960678ac9e95ef0a4f0221",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Volumes/Work/Projects/nimacloud/tdtm-source/force-app/main/default/classes/TriggerHandlerInterface.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Volumes/Work/Projects/nimacloud/tdtm-source/force-app/main/default/classes/TriggerHandlerInterface.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 201,
+            "modifiedTime": 1548141784371,
+            "changeTime": 1548141784371,
+            "contentHash": "ec271abc84cb2903a71e22b28422ffc7f002b8c1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Volumes/Work/Projects/nimacloud/tdtm-source/force-app/main/default/classes/TriggerHandlerManager.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Volumes/Work/Projects/nimacloud/tdtm-source/force-app/main/default/classes/TriggerHandlerManager.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1954,
+            "modifiedTime": 1548141760643,
+            "changeTime": 1548141760643,
+            "contentHash": "f901f67b208c25f7d7e508ee5f78b237c2a6f291",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Volumes/Work/Projects/nimacloud/tdtm-source/force-app/main/default/classes/TriggerHandlerManager.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Volumes/Work/Projects/nimacloud/tdtm-source/force-app/main/default/classes/TriggerHandlerManager.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 199,
+            "modifiedTime": 1548141743715,
+            "changeTime": 1548141743715,
+            "contentHash": "1af950b1f9caa190ca2d98c59b8a0442daf7b55f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Volumes/Work/Projects/nimacloud/tdtm-source/force-app/main/default/lwc",
+        {
+            "state": "u",
+            "sourcePath": "/Volumes/Work/Projects/nimacloud/tdtm-source/force-app/main/default/lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1548141659430,
+            "changeTime": 1548141659430,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Volumes/Work/Projects/nimacloud/tdtm-source/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Volumes/Work/Projects/nimacloud/tdtm-source/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1548142034005,
+            "changeTime": 1548142034005,
+            "contentHash": "8036c7a3fe86f9e258bd4ef4071ed8b40ffb3df9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Volumes/Work/Projects/nimacloud/tdtm-source/force-app/main/default/objects/Trigger_Handler__mdt",
+        {
+            "state": "u",
+            "sourcePath": "/Volumes/Work/Projects/nimacloud/tdtm-source/force-app/main/default/objects/Trigger_Handler__mdt",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1548141998306,
+            "changeTime": 1548142028994,
+            "contentHash": "3ed4a11d96ecca1845996f9eca71312cc5af05cb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Volumes/Work/Projects/nimacloud/tdtm-source/force-app/main/default/objects/Trigger_Handler__mdt/Trigger_Handler__mdt.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Volumes/Work/Projects/nimacloud/tdtm-source/force-app/main/default/objects/Trigger_Handler__mdt/Trigger_Handler__mdt.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 288,
+            "modifiedTime": 1548141974617,
+            "changeTime": 1548142028987,
+            "contentHash": "76c654cb3170fca208ef82c7770445c6424e2a34",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Volumes/Work/Projects/nimacloud/tdtm-source/force-app/main/default/objects/Trigger_Handler__mdt/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Volumes/Work/Projects/nimacloud/tdtm-source/force-app/main/default/objects/Trigger_Handler__mdt/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 416,
+            "modifiedTime": 1548141974620,
+            "changeTime": 1548142028993,
+            "contentHash": "b67f957e162be5a7650a7c971fea4478a975caef",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Volumes/Work/Projects/nimacloud/tdtm-source/force-app/main/default/objects/Trigger_Handler__mdt/fields/Active__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Volumes/Work/Projects/nimacloud/tdtm-source/force-app/main/default/objects/Trigger_Handler__mdt/fields/Active__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 342,
+            "modifiedTime": 1548141974618,
+            "changeTime": 1548142028992,
+            "contentHash": "f99b8ca269c13453ba9650d73b508437ee358323",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Volumes/Work/Projects/nimacloud/tdtm-source/force-app/main/default/objects/Trigger_Handler__mdt/fields/After_Delete__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Volumes/Work/Projects/nimacloud/tdtm-source/force-app/main/default/objects/Trigger_Handler__mdt/fields/After_Delete__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 354,
+            "modifiedTime": 1548141974618,
+            "changeTime": 1548142028990,
+            "contentHash": "c6bedc094341210dca2f8258ebab3651a1b9ba5f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Volumes/Work/Projects/nimacloud/tdtm-source/force-app/main/default/objects/Trigger_Handler__mdt/fields/After_Insert__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Volumes/Work/Projects/nimacloud/tdtm-source/force-app/main/default/objects/Trigger_Handler__mdt/fields/After_Insert__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 354,
+            "modifiedTime": 1548141974618,
+            "changeTime": 1548142028991,
+            "contentHash": "91a614c157c0bade6df29c1120d0690fbe433f82",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Volumes/Work/Projects/nimacloud/tdtm-source/force-app/main/default/objects/Trigger_Handler__mdt/fields/After_Undelete__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Volumes/Work/Projects/nimacloud/tdtm-source/force-app/main/default/objects/Trigger_Handler__mdt/fields/After_Undelete__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 358,
+            "modifiedTime": 1548141974618,
+            "changeTime": 1548142028990,
+            "contentHash": "981aa5e58d3603f5332c586926b8e3bd8e234bc5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Volumes/Work/Projects/nimacloud/tdtm-source/force-app/main/default/objects/Trigger_Handler__mdt/fields/After_Update__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Volumes/Work/Projects/nimacloud/tdtm-source/force-app/main/default/objects/Trigger_Handler__mdt/fields/After_Update__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 354,
+            "modifiedTime": 1548141974619,
+            "changeTime": 1548142028991,
+            "contentHash": "98831d037e851836be4ba54ccd2530e1d24a50d5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Volumes/Work/Projects/nimacloud/tdtm-source/force-app/main/default/objects/Trigger_Handler__mdt/fields/Before_Delete__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Volumes/Work/Projects/nimacloud/tdtm-source/force-app/main/default/objects/Trigger_Handler__mdt/fields/Before_Delete__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 356,
+            "modifiedTime": 1548141974619,
+            "changeTime": 1548142028993,
+            "contentHash": "720658b650140f5ca196c360348acef21d804810",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Volumes/Work/Projects/nimacloud/tdtm-source/force-app/main/default/objects/Trigger_Handler__mdt/fields/Before_Insert__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Volumes/Work/Projects/nimacloud/tdtm-source/force-app/main/default/objects/Trigger_Handler__mdt/fields/Before_Insert__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 356,
+            "modifiedTime": 1548141974619,
+            "changeTime": 1548142028993,
+            "contentHash": "da5910338972af56f27816e5aad512a6bfd4a733",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Volumes/Work/Projects/nimacloud/tdtm-source/force-app/main/default/objects/Trigger_Handler__mdt/fields/Before_Update__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Volumes/Work/Projects/nimacloud/tdtm-source/force-app/main/default/objects/Trigger_Handler__mdt/fields/Before_Update__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 356,
+            "modifiedTime": 1548141974619,
+            "changeTime": 1548142028993,
+            "contentHash": "76b3a9ac528251e3bc6dc38ae156709a381bdbe2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Volumes/Work/Projects/nimacloud/tdtm-source/force-app/main/default/objects/Trigger_Handler__mdt/fields/Class__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Volumes/Work/Projects/nimacloud/tdtm-source/force-app/main/default/objects/Trigger_Handler__mdt/fields/Class__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 380,
+            "modifiedTime": 1548141974620,
+            "changeTime": 1548142028989,
+            "contentHash": "9902ec6a93d1fc0835a6eb1bc6c578668d9370fa",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Volumes/Work/Projects/nimacloud/tdtm-source/force-app/main/default/objects/Trigger_Handler__mdt/fields/Load_Order__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Volumes/Work/Projects/nimacloud/tdtm-source/force-app/main/default/objects/Trigger_Handler__mdt/fields/Load_Order__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 417,
+            "modifiedTime": 1548141974620,
+            "changeTime": 1548142028992,
+            "contentHash": "db61b8e6e2752e1b23655a7ef3e29d72246af380",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Volumes/Work/Projects/nimacloud/tdtm-source/force-app/main/default/objects/Trigger_Handler__mdt/fields/Object__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Volumes/Work/Projects/nimacloud/tdtm-source/force-app/main/default/objects/Trigger_Handler__mdt/fields/Object__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 382,
+            "modifiedTime": 1548141974620,
+            "changeTime": 1548142028989,
+            "contentHash": "262797d4d1c66d82abca8f9cd7957640a8c8f5a4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Volumes/Work/Projects/nimacloud/tdtm-source",
+        {
+            "state": "u",
+            "sourcePath": "/Volumes/Work/Projects/nimacloud/tdtm-source",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 288,
+            "modifiedTime": 1548141653675,
+            "changeTime": 1548141653675,
+            "contentHash": "482aba1731d0a586e52ba05892f68b26d69ba4fe",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
